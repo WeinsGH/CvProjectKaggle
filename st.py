@@ -2,7 +2,6 @@ import streamlit as st
 import torch
 from torchvision import transforms
 from PIL import Image
-from funcs import preprocess_image, transforming
 
 
 

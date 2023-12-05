@@ -1,6 +1,6 @@
 # CvProjectKaggle
 
-This work for [Kaggle competition](https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets)
+This work for [Kaggle competition](https://www.kaggle.com/datasets/davidbroberts/brain-tumor-object-detection-datasets). Service was deploed on Streamlit Web-service
 
 # Mission
 

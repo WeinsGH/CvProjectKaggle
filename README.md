@@ -22,8 +22,10 @@ We used YOLO-v5m model as compromise between loss and learning-speed. You must u
 
 # Results and metrics
 
-![013](https://github.com/WeinsGH/CvProjectKaggle/assets/109025285/9439e76c-9201-4d86-a653-9184ebb039ff)
+Model trained by 160 epochs. We used meanAveragePrecision as the main metric. The best result: 0.896 on 162 epoch.
 
+![013](https://github.com/WeinsGH/CvProjectKaggle/assets/109025285/9439e76c-9201-4d86-a653-9184ebb039ff)
 
 ![014](https://github.com/WeinsGH/CvProjectKaggle/assets/109025285/826d6c8a-491d-4723-bd4c-745654df2e35)
 
+![016](https://github.com/WeinsGH/CvProjectKaggle/assets/109025285/d62c549e-ed56-4747-b17a-cb7e5d452918)
